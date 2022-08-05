@@ -1,1 +1,1 @@
-# blake-diego-data-projects
+# Data Projects (Diego Matamoros & Blake Moss)
